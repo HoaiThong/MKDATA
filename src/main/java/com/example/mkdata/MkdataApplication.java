@@ -19,7 +19,7 @@ public class MkdataApplication implements CommandLineRunner {
     MyCompanyRepo myCompanyRepo;
     HtmlDAO dao;
     Document document;
-    String url = "https://www.yellowpages.vn/srch/b%E1%BA%AFc_giang/c%C3%B4ng_ty.html?page=";
+    String url = "";
     String con_address = "Bắc Giang";
     int page = 1000;
     boolean flag = false;
